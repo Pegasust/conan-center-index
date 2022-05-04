@@ -1,7 +1,7 @@
 Allow build with Gcc > 2 to be done
 
---- xorg.cf	2022-05-03 13:01:22.284734900 +0000
-+++ my_xorg.cf	2022-05-03 13:00:51.334734900 +0000
+--- xorg.cf
++++ xorg.cf
 @@ -1567,10 +1567,16 @@
  # endif
  #endif
